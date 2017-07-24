@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+
+#fdt-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#fdt-btn {
+    height: 200px;
+    width: 450px;
+    background-color: light-blue;
+    border: 1px solid black;
+    border-radius: 5%
+}
+
+#fdt-main-header {
+	font-size: 22px;
+	position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-15%,0%);
+}
+
+#fdt-tip {
+	text-align: center;
+    margin-top: 20px;
+}
+#container {
+	postition: relative;
+}

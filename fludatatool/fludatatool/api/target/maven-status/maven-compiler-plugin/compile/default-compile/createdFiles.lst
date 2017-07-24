@@ -1,0 +1,6 @@
+org/openmrs/module/fludatatool/Item.class
+org/openmrs/module/fludatatool/api/FludatatoolService.class
+org/openmrs/module/fludatatool/FludatatoolConfig.class
+org/openmrs/module/fludatatool/api/dao/FludatatoolDao.class
+org/openmrs/module/fludatatool/api/impl/FludatatoolServiceImpl.class
+org/openmrs/module/fludatatool/FludatatoolActivator.class

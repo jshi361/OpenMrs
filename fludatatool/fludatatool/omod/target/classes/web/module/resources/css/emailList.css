@@ -1,0 +1,8 @@
+@CHARSET "UTF-8";
+
+#fdt-email-container {
+	position: absolute;
+	width: 200px;
+	height: 600px;
+	overflow: scroll; 
+}
